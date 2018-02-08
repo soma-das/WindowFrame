@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deployment>
+        <mapping platform="Java Standard Edition - J2SE">
+        <value name="blockSourceFileHandling" value="Copy source files into project"/>
+        <value name="libraryArchiveHandling" value="Unpack libraries"/>
+        <value name="loggingFramework" value="SLF4J and Log4J"/>
+        <value name="loggingLevel" value="info"/>
+        <value name="targetProjectName" value="sd.createsimplewindowframe_exe"/>
+    </mapping>
+</deployment>

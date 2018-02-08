@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block
+    name="CreateWindowFrame" 
+    uuid="_-b-MYwtBEeiHzKYeuw1w7Q" 
+    status="under construction" 
+    type="block" 
+    >
+    <required>
+        <package name="sd.createsimplewindowframe.createwindowframe"/>
+    </required>
+</block>

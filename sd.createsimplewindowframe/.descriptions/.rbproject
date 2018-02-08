@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+    title="sd.createsimplewindowframe"
+    uuid="_nyXiQAtBEeiHzKYeuw1w7Q"
+    version="1.1.0"
+    >
+    <licenses>
+        <license tag="epl-v1.0" title="Eclipse Public License - v 1.0" url="http%3A%2F%2Fwww.eclipse.org%2Flegal%2Fepl-v10.html" file="licenses/epl-v10.txt"/>
+    </licenses>
+</project>

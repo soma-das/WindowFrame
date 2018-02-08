@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block
+    name="SimpleWindowFrame" 
+    uuid="_1mdkQQtBEeiHzKYeuw1w7Q" 
+    status="under construction" 
+    type="system" 
+    >
+    <required>
+        <package name="sd.createsimplewindowframe.simplewindowframe.component"/>
+        <block name="b0" uuid="_-b-MYwtBEeiHzKYeuw1w7Q"/>
+    </required>
+</block>
